@@ -8,7 +8,6 @@
          alt = "New Watson Assistant Bank" />
 
 </head>
-
 <script>
   window.watsonAssistantChatOptions = {
   integrationID: "b095c428-6a2f-4e54-beab-e57046599257", // The ID of this integration.
