@@ -6,8 +6,6 @@
   <title>Watson Assistant Bank</title>
 </head>
 <body>
-  <img src="DTE_Bank_wxO.png" style="width:auto; height:1200px;" alt="New Watson Assistant Bank" />
-  
   <script>
     window.watsonAssistantChatOptions = {
       integrationID: "b095c428-6a2f-4e54-beab-e57046599257",
